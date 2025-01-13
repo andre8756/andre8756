@@ -6,9 +6,7 @@
 
 #### ⚡ Busco começar a trabalhar para cada vez aprender novas habilidades e me aperfeiçoar cada vez mais. Procuro uma empresa que me remunere não apenas com dinheiro, mas também com o conhecimento.
 
-###  
-####
-####
+#
 
 <div>
 <a href="https://github.com/andre8756">
@@ -22,10 +20,10 @@
 <a href = "mailto:contato@schmitt.andre23@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andré-heriberto-schmitt-2a9ba9210/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+#
 
-####
 #### Ferramentas e Tecnologias
-####
+
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
           
