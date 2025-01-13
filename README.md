@@ -6,12 +6,12 @@
 
 #### ⚡ Busco começar a trabalhar para cada vez aprender novas habilidades e me aperfeiçoar cada vez mais. Procuro uma empresa que me remunere não apenas com dinheiro, mas também com o conhecimento.
 
-#
+
 
 <div>
 <a href="https://github.com/andre8756">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=andre8756&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andre8756&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
