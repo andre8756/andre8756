@@ -33,19 +33,20 @@
 
  ### ✨ Capacitação:
  
-  - Cursando +Devs2Blu (MoreDevsToBlu) - Turma de java (480 Horas)
-  - Cursando Técnico de Desenvolvimento de Sistemas - Cedup Hermann Hering (1200 Horas);
-  - Curso Java Web - Alura (40 Horas);
-  - Curso de Programação Profissional - Master Premium (100 Horas);
-  - Curos de Conserto de Aparelhos Eletrônicos (32 Horas);
-  - Curso de Inglês Básico - CCAA;
-  - Treinamento Profissional - Speed Treinamentos (112 Horas);
+#####  - Cursando +Devs2Blu (MoreDevsToBlu) - Turma de java (480 Horas)
+#####  - Cursando Técnico de Desenvolvimento de Sistemas - Cedup Hermann Hering (1200 Horas);
+#####  - Curso Java Web - Alura (40 Horas);
+#####  - Curso de Programação Profissional - Master Premium (100 Horas);
+#####  - Curos de Conserto de Aparelhos Eletrônicos (32 Horas);
+#####  - Curso de Inglês Básico - CCAA;
+#####  - Treinamento Profissional - Speed Treinamentos (112 Horas);
 
 
 
  ### Meus Principais Repositórios até agora
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=AprendendoJava&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5000D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/AprendendoJava)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=DesingPatterns&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/DesingPatterns)
+
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=JavaSpringBoot&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/JavaSpringBoot)
 
 
 
