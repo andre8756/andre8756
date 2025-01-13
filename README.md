@@ -6,7 +6,7 @@
 
 #### ⚡ Busco começar a trabalhar para cada vez aprender novas habilidades e me aperfeiçoar cada vez mais. Procuro uma empresa que me remunere não apenas com dinheiro, mas também com o conhecimento.
 
-####
+###  
 ####
 ####
 
