@@ -2,7 +2,7 @@
 
 
 
-## 🔭 Estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
+# 🔭 Estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
 
  ✨ Capacitação:
   - Cursando +Devs2Blu (MoreDevsToBlu) - Turma de java (480 Horas)
