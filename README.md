@@ -8,11 +8,6 @@
 
 
 
-<div>
-<a href="https://github.com/andre8756">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andre8756&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
@@ -35,6 +30,11 @@
 </div>
 
 
+<div>
+<a href="https://github.com/andre8756">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andre8756&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
