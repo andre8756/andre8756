@@ -22,7 +22,7 @@
 </div>
 
 
-#### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
@@ -31,7 +31,7 @@
           
 
 
- ✨ Capacitação:
+ ### ✨ Capacitação:
  
   - Cursando +Devs2Blu (MoreDevsToBlu) - Turma de java (480 Horas)
   - Cursando Técnico de Desenvolvimento de Sistemas - Cedup Hermann Hering (1200 Horas);
@@ -41,7 +41,11 @@
   - Curso de Inglês Básico - CCAA;
   - Treinamento Profissional - Speed Treinamentos (112 Horas);
 
- 
+
+
+ ### Meus Principais Repositórios até agora
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=AprendendoJava&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5000D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/AprendendoJava)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=DesingPatterns&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/DesingPatterns)
 
 
 
