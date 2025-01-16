@@ -16,12 +16,12 @@
 <div>
 <a href="https://github.com/andre8756">
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=andre8756&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&langs_count=7&theme=dracula"/>
 
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&theme=highcontrast)
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre8756&layout=compact&theme=highcontrast)
 
 
 ### Ferramentas e Tecnologias
