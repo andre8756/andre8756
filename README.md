@@ -45,7 +45,7 @@
 
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=JavaSpringBoot&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/JavaSpringBoot)
 
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=ProjetoWeb&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/ProjetoWeb)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=ProjetoFrontEnd&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/ProjetoFrontEnd)
 
 
 
