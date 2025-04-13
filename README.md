@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor Java em formação de 17 anos, apaixonado por tecnologia e programação. Atualmente, curso o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no **CEDUP Hermann Hering**.
+### 🔭 Tenho 17 anos e estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
 
 Estou buscando minha **primeira oportunidade profissional** na área de desenvolvimento, onde possa aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos desafiadores. Tenho grande interesse em aprender continuamente e busco um ambiente que valorize o crescimento e o compartilhamento de conhecimento.
 
@@ -54,9 +54,7 @@ Tecnologias com as quais tenho trabalhado e estudado:
 *   Curso Java Web - Alura (40 Horas)
 *   Curso de Programação Profissional - Master Premium (100 Horas)
 *   Curso de Inglês Básico - CCAA
-*   *(Opcional: Manter apenas os mais relevantes para a área de desenvolvimento)*
-    *   *Curso de Conserto de Aparelhos Eletrônicos (32 Horas)*
-    *   *Treinamento Profissional - Speed Treinamentos (112 Horas)*
+*   *Treinamento Profissional - Speed Treinamentos (112 Horas)*
 
 ---
 
@@ -73,16 +71,12 @@ Tecnologias com as quais tenho trabalhado e estudado:
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns projetos que desenvolvi ou nos quais contribuí:
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=-Devs2Blu&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/-Devs2Blu)
 
-*(**Importante:** Certifique-se que os repositórios fixados (`pinned repositories`) na sua página principal do GitHub sejam os seus melhores projetos e que cada um deles tenha um bom arquivo `README.md` explicando o que o projeto faz, as tecnologias usadas e como executá-lo.)*
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=JavaSpringBoot&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/JavaSpringBoot)
 
-[![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=NOME_DO_REPO_1&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/NOME_DO_REPO_1)
-[![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=NOME_DO_REPO_2&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/NOME_DO_REPO_2)
-[![Repo Card 3](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=NOME_DO_REPO_3&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/NOME_DO_REPO_3)
-
-*(Substitua `NOME_DO_REPO_1`, `NOME_DO_REPO_2`, `NOME_DO_REPO_3` pelos nomes exatos dos seus repositórios que você quer destacar. Use os que você fixou no seu perfil)*
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=AprendendoJava&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5000D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/AprendendoJava)
 
 ---
 
-*Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!*
+⭐️ *Procuro uma empresa que me remunere não apenas com dinheiro, mas também com conhecimento*
