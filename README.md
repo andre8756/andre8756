@@ -14,7 +14,7 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+### 🛠️ Tecnologias Estudadas
 
 Tecnologias com as quais tenho trabalhado e estudado:
 
@@ -47,7 +47,7 @@ Tecnologias com as quais tenho trabalhado e estudado:
 
 ---
 
-## 📚 Formação e Cursos
+### 📚 Formação e Cursos
 
 *   **Cursando:** Técnico em Desenvolvimento de Sistemas - CEDUP Hermann Hering (1200 Horas)
 *   **Cursando:** +Devs2Blu (MoreDevsToBlu) - Turma de Java (480 Horas)
@@ -58,7 +58,7 @@ Tecnologias com as quais tenho trabalhado e estudado:
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <div>
   <a href="https://github.com/andre8756">
@@ -69,7 +69,7 @@ Tecnologias com as quais tenho trabalhado e estudado:
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=andre8756&repo=-Devs2Blu&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/andre8756/-Devs2Blu)
 
