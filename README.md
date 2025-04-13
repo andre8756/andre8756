@@ -1,7 +1,5 @@
 # Olá, eu sou André Heriberto Schmitt 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-heriberto-schmitt-2a9ba9210/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.schmitt.andre23@gmail.com)
 <!-- Opcional: Adicione outros links relevantes, como Portfólio, se tiver -->
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrebr56/) -->
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cargaeletronica9002) -->
@@ -11,6 +9,9 @@
 ### 🔭 Tenho 17 anos e estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
 
 Estou buscando minha **primeira oportunidade profissional** na área de desenvolvimento, onde possa aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos desafiadores. Tenho grande interesse em aprender continuamente e busco um ambiente que valorize o crescimento e o compartilhamento de conhecimento.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-heriberto-schmitt-2a9ba9210/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.schmitt.andre23@gmail.com)
 
 ---
 
