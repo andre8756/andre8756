@@ -17,8 +17,6 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 
 ### 🛠️ Tecnologias Estudadas
 
-Tecnologias com as quais tenho trabalhado e estudado:
-
 <div style="display: inline_block"><br/>
   <!-- Backend & Framework -->
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" title="Java">
